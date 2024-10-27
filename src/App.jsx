@@ -52,7 +52,7 @@ function App() {
               </div>
             )) 
             ):(
-              <p className='text-[#66fcf1] text-xl translate-y-10 mt-5'>No tasks available. Add a new task above!</p>
+              <p className='text-[#66fcf1] text-xl left-10 mt-5'>No tasks available. Add a new task above!</p>
             )}
           </div>
 
